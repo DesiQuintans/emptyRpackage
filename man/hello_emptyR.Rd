@@ -10,7 +10,7 @@ hello_emptyR()
 Returns a character string.
 }
 \description{
-Return a confirmatory message
+Used as a simple test of whether emptyRpackage was correctly installed and attached.
 }
 \examples{
 hello_emptyR()

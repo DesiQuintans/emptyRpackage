@@ -1,13 +1,15 @@
 Package: emptyRpackage
 Type: Package
 Title: A near-empty package for testing 'librarian' functions
-Version: 0.1.0
+Version: 0.2.0
 Author: Desi Quintans
 Maintainer: Desi Quintans <science@desiquintans.com>
 Description: This is a near-empty R package for unit-testing the GitHub package-installing 
     parts of my package management package, 'librarian'.
 License: None
 Depends: R (>= 2.0.0)
+Imports:
+    fortunes
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
